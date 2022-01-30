@@ -24,6 +24,11 @@ After the preparation of the data analysis, the school board had been notified o
 
 Student_data before update
 
-[student_data_before_THS_9th_reading_math_to_NaN_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_data_before_THS_9th_reading_math_to_NaN_update.png)
+![student_data_before_THS_9th_reading_math_to_NaN_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_data_before_THS_9th_reading_math_to_NaN_update.png)
+
+Script loc() method script used
+
+![ths_loc.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/ths_loc.png)
+
 
 ## Summary:
