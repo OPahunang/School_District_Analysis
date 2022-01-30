@@ -28,7 +28,11 @@ Student_data before update
 
 Script loc() method script used
 
-![ths_loc.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/ths_loc.png)
+![student_data_after_THS_9th_reading_math_to_NaN_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_data_after_THS_9th_reading_math_to_NaN_update.png)
+
+Student_data after running the script
+
+![student_data_after_THS_9th_reading_math_to_NaN_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_data_after_THS_9th_reading_math_to_NaN_update.png)
 
 
 ## Summary:
