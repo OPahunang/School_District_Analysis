@@ -20,13 +20,13 @@ After the preparation of the data analysis, the school board had been notified o
 
 ## Results:
 
-### A. Deliverable 1 Requirements
+### A. Deliverable 1: Requirements
 
 Student_data before update
 
 ![student_data_before_THS_9th_reading_math_to_NaN_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_data_before_THS_9th_reading_math_to_NaN_update.png)
 
-Script loc() method script used
+Script loc method script used
 
 ![ths_loc.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/ths_loc.png)
 
@@ -34,7 +34,27 @@ Student_data after running the script
 
 ![student_data_after_THS_9th_reading_math_to_NaN_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_data_after_THS_9th_reading_math_to_NaN_update.png)
 
+### B. Deliverable 2: Repeat the Schol District Analysis
 
+
+Script for Total Student and Total Student less THS 9th grade 
+
+![student_count_and_student_count_less_ths_9th.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_count_and_student_count_less_ths_9th.png)
+
+
+Script calculate the math and reading passing percentages
+
+![calculate_math_reading.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/calculate_math_reading.png)
+
+
+Script calculate the overall passing percentage
+
+![calculate_overall_passing_percentage.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/calculate_overall_passing_percentage.png)
+
+
+District Summary
+
+![district_summary.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary.png)
 
 
 
