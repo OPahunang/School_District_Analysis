@@ -57,8 +57,11 @@ District Summary
 ![district_summary_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary_after_update.png)
 
 
+
+
 1) How is the district summary affected?
-   The modification of Thomas High School 9th grade with grade to Nan did not have much of a big impact this is due to the numbers of 9th graders student which is 461.
+   
+   The modification of Thomas High School 9th grader grades to Nan did not have much of a big impact to District Summary analysis this is due to the numbers of 9th graders student which is only 461.
  
  District Summary Initial Analysis
  ![district_summary_initial_analysis.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary_initial_analysis.png)
@@ -66,5 +69,33 @@ District Summary
  District Summary Modified Analysis
  ![district_summary_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary_after_update.png)
 
+2) How is the school summary affected?
+
+   The mofication did have a big impact on %Overall Passing, Thomas High School is still in top 2. 
+   
+   Initial Analysis
+   ![top_5_schools.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/top_5_schools.png)
+   
+   Updated Anbalysis
+   ![top_5_schools_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/top_5_schools_after_update.png)
+   
+3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+   When replacing the 9th grader's math and reading scores did not affect other schools
+   
+   Initial Analysis by Grade - Math
+   ![math_scores_by_grade_initial.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/math_scores_by_grade_initial.png)
+   
+   Updated Analysis by Grade - Math
+   ![math_scores_by_grade_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/math_scores_by_grade_after_update.png)
+   
+   Initial Analysis by Grade - Reading 
+   ![reading_scores_by_grade_initial.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_initial.png)
+   
+   Updated Analysis by Grade - Reading
+   ![reading_scores_by_grade_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_after_update.png)
+   
+   
+   
 
 ## Summary:
