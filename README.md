@@ -115,7 +115,9 @@ District Summary
    
 ## Summary:
 
-  - Overall analysis the more students in the school the lesser % Overall Passing. 
-  - The bigger per student budget is not a guarantee of high % Overall Passing in fact schools lesser per student budget is in the top 5 schools. 
-  - Top 5 schools are all Charter school type
-  - School size medium (1000 -2000) and small (<1000) have higher % overall passing.
+Analysis according to data
+
+  - The more students in the school the lesser percentage of overall passing. 
+  - Bigger per student budget is not a guarantee of high percentage of overall passing, in fact schools lesser per student budget is in the top 5 schools. 
+  - Top 5 schools are all Charter school type and botton 5 schools are all District school type
+  - School size medium (1000 -2000) and small (<1000) have higher percentage of overall passing.
