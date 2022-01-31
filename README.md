@@ -32,7 +32,7 @@ Script loc() method script used
 
 Student_data after running the script
 
-![student_data_after_THS_9th_reading_math_to_NaN_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/student_data_after_THS_9th_reading_math_to_NaN_update.png)
+
 
 
 ## Summary:
