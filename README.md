@@ -100,17 +100,18 @@ District Summary
    ![reading_scores_by_grade_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_after_update.png)
    
  4) How does replacing the ninth-grade scores affect the following:
-    -Math and reading scores by grade
-     There is a change on the figures
+ 
+    -Math and reading scores by grade. 
+        Only affected is the Thomas High School 9th grader with the NaN value
     
     -Scores by school spending 
-     No change scores by school spending
+        No change scores by school spending. Thomas High School budget per student is $638. Total school budget $1,043,130.00
      
     -Scores by school size
-     No chnage on spending ranges(per student). Thomas High School $630-644, School Size Medium (1000 - 2000)
+        No chnage on spending ranges(per student). Thomas High School $630-644, School Size Medium (1000 - 2000)
      
     - Scores by School type 
-     No change on School Type for Thomas High School - Charter 
+        No change on School Type for Thomas High School - Charter 
      
    
 ## Summary:
