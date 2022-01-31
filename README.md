@@ -54,7 +54,7 @@ Script calculate the overall passing percentage
 
 District Summary
 
-![district_summary.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary.png)
+![district_summary_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary_after_update.png)
 
 
 
