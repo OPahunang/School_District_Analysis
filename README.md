@@ -76,7 +76,7 @@ District Summary
    Initial Analysis
    ![top_5_schools.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/top_5_schools.png)
    
-   Updated Anbalysis
+   Updated
    ![top_5_schools_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/top_5_schools_after_update.png)
    
 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -112,6 +112,7 @@ District Summary
      
     - Scores by School type 
         No change on School Type for Thomas High School - Charter 
+        ![school_type_summary.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/school_type_summary.png)
      
    
 ## Summary:
