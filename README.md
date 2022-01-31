@@ -57,6 +57,14 @@ District Summary
 ![district_summary_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary_after_update.png)
 
 
+1) How is the district summary affected?
+   The modification of Thomas High School 9th grade with grade to Nan did not have much of a big impact this is due to the numbers of 9th graders student which is 461.
+ 
+ District Summary Initial Analysis
+ ![district_summary_initial_analysis.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary_initial_analysis.png)
+ 
+ District Summary Modified Analysis
+ ![district_summary_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/district_summary_after_update.png)
 
 
 ## Summary:
