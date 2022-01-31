@@ -81,21 +81,41 @@ District Summary
    
 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-   When replacing the 9th grader's math and reading scores did not affect other schools
+   When updated the 9th grader's scores math and reading, it did not affect other schools performance
    
    Initial Analysis by Grade - Math
+   
    ![math_scores_by_grade_initial.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/math_scores_by_grade_initial.png)
    
    Updated Analysis by Grade - Math
+   
    ![math_scores_by_grade_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/math_scores_by_grade_after_update.png)
    
    Initial Analysis by Grade - Reading 
+   
    ![reading_scores_by_grade_initial.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_initial.png)
    
    Updated Analysis by Grade - Reading
+   
    ![reading_scores_by_grade_after_update.png](https://github.com/OPahunang/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_after_update.png)
    
+ 4) How does replacing the ninth-grade scores affect the following:
+    -Math and reading scores by grade
+     There is a change on the figures
+    
+    -Scores by school spending 
+     No change scores by school spending
+     
+    -Scores by school size
+     No chnage on spending ranges(per student). Thomas High School $630-644, School Size Medium (1000 - 2000)
+     
+    - Scores by School type 
+     No change on School Type for Thomas High School - Charter 
+     
    
-   
-
 ## Summary:
+
+  - Overall analysis the more students in the school the lesser % Overall Passing. 
+  - The bigger per student budget is not a guarantee of high % Overall Passing in fact schools lesser per student budget is in the top 5 schools. 
+  - Top 5 schools are all Charter school type
+  - School size medium (1000 -2000) and small (<1000) have higher % overall passing.
